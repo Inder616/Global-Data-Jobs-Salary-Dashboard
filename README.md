@@ -160,5 +160,3 @@ By combining Power Query, Pivot Tables, advanced formulas, and data visualizatio
 
 If you found this project valuable or would like to collaborate, feel free to connect 🚀
 
-
-Aspiring Data Analyst | Excel | SQL | Python | Data Visualization
